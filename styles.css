@@ -71,24 +71,24 @@ body {
 .content {
     display: flex;
     flex-direction: column;
-    gap: 20px; /* Reduced space between text blocks */
-    margin: 10px 0; /* Reduced margin */
+    gap: 30px; /* Reduced space between text blocks */
+    margin: 0px 0; /* Reduced margin */
 }
 
 .card {
     background-color: #fff;
-    padding: 5px 0; /* Reduced padding */
+    padding: 20px 0; /* Reduced padding */
 }
 
 .card h2 {
     font-size: 1.5rem;
-    margin: 5px 0; /* Reduced margin */
+    margin: 0px 0; /* Reduced margin */
     color: #000;
 }
 
 .card p {
     font-size: 1.2rem;
-    margin: 5px 0; /* Reduced margin */
+    margin: 0px 0; /* Reduced margin */
     color: #000;
 }
 
