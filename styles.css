@@ -38,7 +38,7 @@ body {
 .header h1 {
     font-size: 3rem;
     margin: 5px 0; /* Reduced margin */
-    color: #000;
+    color: #FFFFFF;
 }
 
 .header h1 img {
@@ -89,7 +89,7 @@ body {
 .card p {
     font-size: 1.2rem;
     margin: 5px 0; /* Reduced margin */
-    color: #333;
+    color: #000;
 }
 
 .footer {
@@ -111,7 +111,7 @@ body {
 .footer h2, .footer p, .footer a {
     margin: 0; /* No extra margins */
     font-size: 1.5rem;
-    color: #000;
+    color: #FFFFFF;
 }
 
 .footer p {
@@ -121,7 +121,7 @@ body {
 }
 
 .footer a {
-    color: #000;
+    color: #FFFFFF;
     text-decoration: none;
     font-size: 1.2rem;
 }
