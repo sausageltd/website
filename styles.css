@@ -71,7 +71,7 @@ body {
 .content {
     display: flex;
     flex-direction: column;
-    gap: 10px; /* Reduced space between text blocks */
+    gap: 20px; /* Reduced space between text blocks */
     margin: 10px 0; /* Reduced margin */
 }
 
